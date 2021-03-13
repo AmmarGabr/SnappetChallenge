@@ -1,0 +1,26 @@
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Snappet Challenge.exe.config
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Snappet Challenge.exe
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Snappet Challenge.pdb
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Newtonsoft.Json.dll
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Newtonsoft.Json.xml
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csprojAssemblyReference.cache
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet_Challenge.Form1.resources
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet_Challenge.Properties.Resources.resources
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csproj.GenerateResource.cache
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csproj.CoreCompileInputs.cache
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csproj.CopyComplete
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.exe
+D:\Job Hunting\Snappet\Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.pdb
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Snappet Challenge.exe.config
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Snappet Challenge.exe
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Snappet Challenge.pdb
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Newtonsoft.Json.dll
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\bin\Debug\Newtonsoft.Json.xml
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csprojAssemblyReference.cache
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet_Challenge.Form1.resources
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet_Challenge.Properties.Resources.resources
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csproj.GenerateResource.cache
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csproj.CoreCompileInputs.cache
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.csproj.CopyComplete
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.exe
+D:\Job Hunting\Snappet\The Challenge\SnappetChallenge\Snappet Challenge\Snappet Challenge\obj\Debug\Snappet Challenge.pdb
